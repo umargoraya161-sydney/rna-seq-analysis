@@ -1,0 +1,30 @@
+# R temporary files
+.RData
+.RDataTmp
+.Rhistory
+.Rproj.user/
+
+# Raw sequencing and alignment files
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bai
+*.sam
+
+# Reference genome and annotation files
+*.fa
+*.fasta
+*.gtf
+*.ht2
+*.ht2l
+
+# Downloaded archives
+*.tar.gz
+*.zipxxxxx
+*.jar
+
+# Large intermediate count files
+*_trimmed.txt
+DEG/gdpplot.png
